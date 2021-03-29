@@ -1,16 +1,28 @@
 ### Hi there 👋
 
+I'm a C++ rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
+
+
+
+#### Currently
+
+- Research and Development Rendering Engineer intern at Howest Digital Arts and Entertainment Research
+- 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
+
 <!--
-**SeppahBaws/SeppahBaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Previously
 
-Here are some ideas to get you started:
+- add items here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+#### Technolgies
+
+- Game Dev: `C++`, `C#`, `Unreal Engine`, `Unity`
+- Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
+- Web Development: `React`, `PHP`
+
+
+#### Other
+
+- Check out my website for a look at my portfolio: https://seppedekeyser.be
