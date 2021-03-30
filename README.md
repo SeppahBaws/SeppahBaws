@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a C++ rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
+I'm a rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
 
 
 
 #### Currently
 
-- Research and Development Rendering Engineer intern at Howest Digital Arts and Entertainment Research
-- 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
+- 🏢 Research and Development Rendering Engineer intern at Howest Digital Arts and Entertainment Research
+- 🎓 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
 
 <!--
 #### Previously
@@ -18,11 +18,13 @@ I'm a C++ rendering engineer from Belgium, interested in the technologies behind
 
 #### Technolgies
 
-- Game Dev: `C++`, `C#`, `Unreal Engine`, `Unity`
-- Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
-- Web Development: `React`, `PHP`
+- 🎮 Game Dev: `C++`, `C#`, `Unreal Engine`, `Unity`
+- 🖥 Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
+- 🌐 Web Development: `React`, `PHP`, `Angular`, `TypeScript`
 
 
-#### Other
+#### Handy Links
 
-- Check out my website for a look at my portfolio: https://seppedekeyser.be
+- 🧑 [Portfolio](https://seppedekeyser.be)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seppe-dekeyser)
+- 🐦 [Twitter](https://twitter.com/SeppahBaws)
