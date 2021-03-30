@@ -9,6 +9,7 @@ I'm a rendering engineer from Belgium, interested in the technologies behind wha
 - 🏢 Research and Development Rendering Engineer intern at Howest Digital Arts and Entertainment Research
 - 🎓 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
 
+
 <!--
 #### Previously
 
@@ -16,11 +17,11 @@ I'm a rendering engineer from Belgium, interested in the technologies behind wha
 
 -->
 
+
 #### Technolgies
 
 - 🎮 Game Dev: `C++`, `C#`, `Unreal Engine`, `Unity`
 - 🖥 Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
-- 🌐 Web Development: `React`, `PHP`, `Angular`, `TypeScript`
 
 
 #### Handy Links
