@@ -6,7 +6,7 @@ I'm a rendering engineer from Belgium, interested in the technologies behind wha
 
 #### Currently
 
-- 🏢 Research and Development Rendering Engineer intern at Howest Digital Arts and Entertainment Research
+- 🏢 R&D Rendering Engineer intern at Howest DAE Research
 - 🎓 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
 
 
