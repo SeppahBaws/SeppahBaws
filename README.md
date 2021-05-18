@@ -29,3 +29,8 @@ I'm a rendering engineer from Belgium, interested in the technologies behind wha
 - 🧑 [Portfolio](https://seppedekeyser.be)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seppe-dekeyser)
 - 🐦 [Twitter](https://twitter.com/SeppahBaws)
+
+---
+
+### GitHub Stats
+![Github Stats](https://github-readme-stats-codestackr.vercel.app/api?username=SeppahBaws&show_icons=true&hide_border=true&count_private=true)
