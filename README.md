@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-I'm a rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
+I'm Seppe Dekeyser, a rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
 
 
 
 #### Currently
-
-- 🏢 R&D Rendering Engineer intern at Howest DAE Research
-- 🎓 3rd year senior student at Howest Digital Arts and Entertainment, graduating this year.
+- 🔍 Looking for a job
 
 
-<!--
+
 #### Previously
-
-- add items here
-
--->
+- 🏢 R&D Rendering Engineer intern at Howest DAE Research
+- 🎓 Graduated at Howest Digital Arts and Entertainment in 2021
 
 
 #### Technolgies
