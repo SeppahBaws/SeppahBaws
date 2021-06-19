@@ -12,6 +12,7 @@ I'm Seppe Dekeyser, a rendering engineer from Belgium, interested in the technol
 #### Previously
 - 🏢 R&D Rendering Engineer intern at Howest DAE Research
 - 🎓 Graduated at Howest Digital Arts and Entertainment in 2021
+- 🏢 Lead Frontend Developer at Edu-Tech 2017-2020
 
 
 #### Technolgies
