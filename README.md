@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seppe Dekeyser, a rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
+I'm Seppe Dekeyser, an aspiring rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
 
 
 
@@ -17,7 +17,7 @@ I'm Seppe Dekeyser, a rendering engineer from Belgium, interested in the technol
 
 #### Technolgies
 
-- 🎮 Game Dev: `C++`, `C#`, `Unreal Engine`, `Unity`
+- 🎮 Game Dev: `C++`, `C#`, `Unity`, `Unreal Engine`
 - 🖥 Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
 
 
