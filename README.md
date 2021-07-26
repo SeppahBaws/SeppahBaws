@@ -5,13 +5,14 @@ I'm Seppe Dekeyser, an aspiring rendering engineer from Belgium, interested in t
 
 
 #### Currently
-- 🔍 Looking for a job
+
+- 🔍 Looking for opportunities
 
 
 
 #### Previously
+
 - 🏢 R&D Rendering Engineer intern at Howest DAE Research
-- 🎓 Graduated at Howest Digital Arts and Entertainment in 2021
 - 🏢 Lead Frontend Developer at Edu-Tech 2017-2020
 
 
@@ -19,6 +20,11 @@ I'm Seppe Dekeyser, an aspiring rendering engineer from Belgium, interested in t
 
 - 🎮 Game Dev: `C++`, `C#`, `Unity`, `Unreal Engine`
 - 🖥 Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
+
+
+### Education
+
+- 🎓 Bachelor's Degree in Game Development in Digital Arts and Entertainment - Graduated in 2021
 
 
 #### Handy Links
