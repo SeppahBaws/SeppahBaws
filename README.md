@@ -20,7 +20,7 @@ I'm Seppe Dekeyser, an aspiring rendering engineer from Belgium, interested in t
 #### Technolgies
 
 - 🎮 Game Dev: `C++`, `C#`, `Unity`, `Unreal Engine`
-- 🖥 Rendering APIs: `DirectX 11`, `OpenGL`  •  currently learning `Vulkan`, `DirectX 12`, `DirectX Raytracing`
+- 🖥 Rendering APIs: experience with `Vulkan`, `DirectX 12`, `DirectX Raytracing`, `DirectX 11`, `OpenGL`
 
 
 ### Education
