@@ -4,6 +4,7 @@ I'm Seppe Dekeyser, Frontend Lead at Edu-Tech working on CloudClass by day, Rend
 
 
 
+
 #### Currently
 
 - 🏢 Lead Frontend Developer at Edu-Tech (Jun 2021 - now)
