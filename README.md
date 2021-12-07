@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Seppe Dekeyser, an aspiring rendering engineer from Belgium, interested in the technologies behind what make pixels light up.
+I'm Seppe Dekeyser, Frontend Lead at Edu-Tech working on CloudClass by day, Rendering Engineer by night.
 
 
 
 #### Currently
 
-- 🔍 Looking for opportunities as render/graphics/engine programmer
 - 🏢 Lead Frontend Developer at Edu-Tech (Jun 2021 - now)
 
 
