@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-I'm Seppe Dekeyser, Frontend Lead at Edu-Tech working on CloudClass by day, Rendering Engineer by night.
+I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day, aspiring Rendering Engineer by night.
 
 
 
 
 #### Currently
 
-- 🏢 Lead Frontend Developer at Edu-Tech (Jun 2021 - now)
+- 🏢 Frontend Developer at Edu-Tech (Jun 2021 - now)
 
 
 
 #### Previously
 
 - 🏢 R&D Rendering Engineer intern at Howest DAE Research (February 2021 - June 2021)
-- 🏢 Lead Frontend Developer at Edu-Tech (2017-2020)
+- 🏢 Frontend Developer at Edu-Tech (2017-2020)
 
 
 #### Technolgies
