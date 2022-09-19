@@ -14,7 +14,7 @@ I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day,
 #### Previously
 
 - 🏢 R&D Rendering Engineer intern at Howest DAE Research (February 2021 - June 2021)
-- 🏢 Frontend Developer at Edu-Tech (2017-2020)
+- 🏢 [hobby project] Frontend Developer at Edu-Tech (2017-2020)
 
 
 #### Technolgies
@@ -33,3 +33,7 @@ I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day,
 - 🧑 [Portfolio](https://seppedekeyser.be)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seppe-dekeyser)
 - 🐦 [Twitter](https://twitter.com/SeppahBaws)
+
+#### Because I love statistics
+
+[![wakatime](https://wakatime.com/badge/user/10e606c7-5568-45c9-970d-98e061b828b1.svg)](https://wakatime.com/@10e606c7-5568-45c9-970d-98e061b828b1)
