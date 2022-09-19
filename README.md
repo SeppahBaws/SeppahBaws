@@ -36,4 +36,6 @@ I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day,
 
 #### Because I love statistics
 
+My coding activity since Oct 8 2018:
+
 [![wakatime](https://wakatime.com/badge/user/10e606c7-5568-45c9-970d-98e061b828b1.svg)](https://wakatime.com/@10e606c7-5568-45c9-970d-98e061b828b1)
