@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day, aspiring Rendering Engineer by night.
+I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day, and dreaming of pretty pixels by night.
 
+I am always curious about the newest evolutions in the gaming industry, and love to analize and dissect the latest technologies.
 
 
 
@@ -32,7 +33,6 @@ I'm Seppe Dekeyser, Frontend Developer at Edu-Tech working on CloudClass by day,
 
 - 🧑 [Portfolio](https://seppedekeyser.be)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seppe-dekeyser)
-- 🐦 [Twitter](https://twitter.com/SeppahBaws)
 
 #### Because I love statistics
 
