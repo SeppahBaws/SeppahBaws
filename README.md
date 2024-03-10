@@ -32,6 +32,7 @@ I am always curious about the newest evolutions in the gaming industry, and love
 #### Handy Links
 
 - 🧑 [Portfolio](https://seppedekeyser.be)
+- 🗣️ [Blog](https://renderingpixels.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seppe-dekeyser)
 
 #### Because I love statistics
